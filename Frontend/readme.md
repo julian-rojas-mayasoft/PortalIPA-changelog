@@ -11,3 +11,4 @@ Las fechas corresponden a fechas de despliegue a producción. Branch: Main.
 #### Desarrollos
 
 - Se añade frontend de consumption con CRUD básico de consumos
+- Se cambia 'Agrupación' por 'Inmueble".
